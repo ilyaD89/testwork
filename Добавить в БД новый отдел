@@ -1,0 +1,4 @@
+insert into Department
+(id, number)
+values
+('777','Новенькие')
