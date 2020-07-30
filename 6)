@@ -2,5 +2,5 @@
 
 delete from Employee
 where department_id in (select id from Department where name = 'Шпионы');
-delete from department where name = 'Шпионы'
+delete from Department where name = 'Шпионы'
 
