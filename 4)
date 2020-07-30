@@ -1,3 +1,5 @@
+#Добавить в БД новый отдел
+
 insert into Department
 (id, number)
 values
